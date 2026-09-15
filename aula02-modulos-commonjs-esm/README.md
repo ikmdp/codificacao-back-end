@@ -1,3 +1,5 @@
+14/09/2026
+
 Criação do projeto aula02-modulos-commonjs-esm, com package.json configurado para uso de módulos.
 
 Criação do arquivo utilitario.js, responsável por formatar as mensagens de log:
