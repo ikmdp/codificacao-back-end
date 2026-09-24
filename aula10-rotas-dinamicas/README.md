@@ -113,3 +113,5 @@ O terminal exibirá o log do NestJS confirmando o mapeamento da rota dinâmica:
 - Como extrair parâmetros de rota com o decorator `@Param`.
 - Como usar *pipes* (`ParseIntPipe`) para validar/transformar dados de entrada.
 - Como lançar exceções HTTP padronizadas (`NotFoundException`) quando um recurso não é encontrado.
+
+
