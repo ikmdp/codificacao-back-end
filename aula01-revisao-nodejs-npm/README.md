@@ -1,0 +1,2 @@
+início do projeto back-end.
+criamos a pasta do projeto e o arquivo package.json. Em seguida, criamos um script (diagnostico.js) usando o módulo nativo os para exibir plataforma, memória RAM (total/livre) e dados do processador.
