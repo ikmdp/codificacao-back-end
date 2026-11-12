@@ -1,0 +1,16 @@
+{
+  "texto": "hoje comecei a estudar modelagem de banco de dados no senai",
+  "autor": "nseibro",
+  "data": "2026-10-20",
+  "curtidas": ["joao.santos", "ana.oliveira", "carlos.lima"],
+  "comentarios": [
+    {
+      "autor": "joao.santos",
+      "texto": "caraca, também quero aprender!"
+    },
+    {
+      "autor": "ana.oliveira",
+      "texto": "que top! Qual curso você está fazendo?"
+    }
+  ]
+}
